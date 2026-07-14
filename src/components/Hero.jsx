@@ -37,7 +37,7 @@ export default function Hero() {
             VIEW DATABASE
           </a>
           <a
-            href="/Assets/Resume/Resume.pdf"
+            href="/Assets/Resume/Kuldeep_Resume.pdf"
             download
             className="cursor-hover flex items-center justify-center gap-2 border-2 border-black bg-neo-white px-8 py-4 text-lg font-bold text-black shadow-hard transition-all hover:-translate-x-1 hover:-translate-y-1 hover:bg-neo-pink hover:shadow-none sm:px-10 sm:py-5 sm:text-xl"
           >
